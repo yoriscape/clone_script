@@ -19,4 +19,3 @@ git clone $zeph/android_vendor_xiaomi_alioth vendor/xiaomi/alioth
 git clone $zeph/android_vendor_xiaomi_sm8250-common vendor/xiaomi/sm8250-common
 git clone -b udc-release $kernel/android_device_xiaomi_alioth-kernel device/xiaomi/alioth-kernel
 git clone $camera/alioth-camera.git vendor/xiaomi/camera
-git clone $zeph/android_kernel_xiaomi_sm8250 kernel/xiaomi/alioth
